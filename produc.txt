@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:red;grey">See เฟชั่น shop</h1>
+
+<h2>เสื้อผ้า เฟชั่น </h2>
+<h3>เสื้อโปโล <h/h3>
+<h4>เสื้อยึด<h/h4>
+<h5>เสื้อสายเดียว<h5>
+
+<h1 style="background-color:red;grey"> หมวดสินค้า</h1>
+<h2>สินค้ามาใหม่<h2>
+<h3>สินค้าขายดี<h3>
+
+<p style="background-color:red;grey">-ข้อมูลติดต่อทางร้าน</p>
+น.ส รอซีบะห์ สะมาแอ 
+68 หมู่ 3 ตำบล ถนน อำเภอ มายอ จำหวัด ปัตตานี 
+หมายเลขโทรศัพท์ 0843135287
+
+<p>My first paragraph.</p>
+
+</body>
+</html>

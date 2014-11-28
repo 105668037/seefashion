@@ -1,0 +1,30 @@
+H4
+{	
+	FONT-FAMILY : "MS Sans Serif";
+}
+
+TR.detail
+{
+ 	FONT-FAMILY : "MS Sans Serif";
+ 	FONT-SIZE: 9;
+}
+
+TR.header
+{
+ 	FONT-FAMILY : "MS Sans Serif";
+ 	FONT-SIZE: 12PT;
+}
+
+TD
+{	
+	FONT-FAMILY : "MS Sans Serif";
+}
+A:hover
+{		
+	COLOR: red;
+}
+
+INPUT.right
+{
+	TEXT-ALIGN: RIGHT;
+}
